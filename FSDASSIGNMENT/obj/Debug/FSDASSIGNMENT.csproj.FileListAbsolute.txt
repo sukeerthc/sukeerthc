@@ -1,0 +1,7 @@
+C:\Users\Sukeerth_c\source\repos\FSDASSIGNMENT\FSDASSIGNMENT\bin\Debug\FSDASSIGNMENT.exe.config
+C:\Users\Sukeerth_c\source\repos\FSDASSIGNMENT\FSDASSIGNMENT\bin\Debug\FSDASSIGNMENT.exe
+C:\Users\Sukeerth_c\source\repos\FSDASSIGNMENT\FSDASSIGNMENT\bin\Debug\FSDASSIGNMENT.pdb
+C:\Users\Sukeerth_c\source\repos\FSDASSIGNMENT\FSDASSIGNMENT\obj\Debug\FSDASSIGNMENT.csprojAssemblyReference.cache
+C:\Users\Sukeerth_c\source\repos\FSDASSIGNMENT\FSDASSIGNMENT\obj\Debug\FSDASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\Sukeerth_c\source\repos\FSDASSIGNMENT\FSDASSIGNMENT\obj\Debug\FSDASSIGNMENT.exe
+C:\Users\Sukeerth_c\source\repos\FSDASSIGNMENT\FSDASSIGNMENT\obj\Debug\FSDASSIGNMENT.pdb
